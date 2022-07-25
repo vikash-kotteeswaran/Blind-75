@@ -1,6 +1,6 @@
 class Solution {
     
-//     Note: Checkout Binets Method
+//     Note: Checkout Binets Method and also - https://leetcode.com/problems/climbing-stairs/discuss/1851337/9-Approaches-or-Fibonacci-or-The-Most-Complete-or-All-In-One
     
 //     approach 1: Permutations - Not accurate as the calculations in perm return inaccurate answers
     
