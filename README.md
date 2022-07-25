@@ -1,7 +1,7 @@
 
 ## Array
 
-- [x] [Two Sum](https://leetcode.com/problems/two-sum/) - [solution](https://github.com/vikash-kotteeswaran/Blind-75/blob/main/Solutions/TwoSum.java)
+- [x] [Two Sum](https://leetcode.com/problems/two-sum/) -- [Solution](https://github.com/vikash-kotteeswaran/Blind-75/blob/main/Solutions/TwoSum.java)
 - [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
@@ -26,7 +26,7 @@
 
 ## Dynamic Programming
 
-- [x] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) - [solution](https://github.com/vikash-kotteeswaran/Blind-75/blob/main/Solutions/ClimbingStairs.java)
+- [x] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) -- [Solution](https://github.com/vikash-kotteeswaran/Blind-75/blob/main/Solutions/ClimbingStairs.java)
 - [ ] [Coin Change](https://leetcode.com/problems/coin-change/)
 - [ ] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 - [ ] [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
