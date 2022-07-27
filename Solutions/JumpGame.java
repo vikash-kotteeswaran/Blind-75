@@ -46,6 +46,7 @@ class Solution {
 //         return false;
         
 //         approach 2.3: Backwards with single checking
+//         Notes: https://leetcode.com/problems/jump-game/discuss/1429371/Java-1ms-faster-than-100-O(n)-with-comment
         
         int depth = nums.length - 1;
         for(int i = depth; i >= 0; i--){
