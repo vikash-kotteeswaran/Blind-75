@@ -19,6 +19,7 @@
 - [ ] [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
 - [ ] [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 - [x] [Counting Bits](https://leetcode.com/problems/counting-bits/)
+- [x] [Sum of Values at Indices With K Set Bits](https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/) - Extras
 - [ ] [Missing Number](https://leetcode.com/problems/missing-number/)
 - [ ] [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 
@@ -43,7 +44,8 @@
 ## Graph
 
 - [ ] [Clone Graph](https://leetcode.com/problems/clone-graph/)
-- [ ] [Course Schedule](https://leetcode.com/problems/course-schedule/)
+- [x] [Course Schedule](https://leetcode.com/problems/course-schedule/)
+- [x] [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) - Extras
 - [ ] [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
 - [ ] [Number of Islands](https://leetcode.com/problems/number-of-islands/)
 - [ ] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
