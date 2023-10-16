@@ -16,5 +16,6 @@
 - **Special Types of Tree**
   - **Binary Search Tree**
     - Left Child Node which will lesser than Parent Node and Right Child Node which will greater than the Parent Node
+    - Elements in the Left Sub-Tree will always be lesser than its parent node and Elements in the Right Sub-Tree will always be greater than its parent node.
   - [AVL Tree](https://www.cs.auckland.ac.nz/software/AlgAnim/AVL.html)
   - [Red-Black Tree](https://www.cs.auckland.ac.nz/software/AlgAnim/red_black_op.html)
