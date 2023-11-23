@@ -19,3 +19,6 @@
     - Elements in the Left Sub-Tree will always be lesser than its parent node and Elements in the Right Sub-Tree will always be greater than its parent node.
   - [AVL Tree](https://www.cs.auckland.ac.nz/software/AlgAnim/AVL.html)
   - [Red-Black Tree](https://www.cs.auckland.ac.nz/software/AlgAnim/red_black_op.html)
+
+## Arithmetic Concepts
+- Diagonal elements in a matrix have the same index sums (row_index + col_index)
