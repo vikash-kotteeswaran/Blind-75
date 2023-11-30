@@ -22,3 +22,6 @@
 
 ## Arithmetic Concepts
 - Diagonal elements in a matrix have the same index sums (row_index + col_index)
+
+## Binary Concepts
+- A number XOR-ing itself will return 0, any number XOR-ing with 0 will stay unchanged.
