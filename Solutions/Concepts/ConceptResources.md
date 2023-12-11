@@ -20,6 +20,11 @@
   - [AVL Tree](https://www.cs.auckland.ac.nz/software/AlgAnim/AVL.html)
   - [Red-Black Tree](https://www.cs.auckland.ac.nz/software/AlgAnim/red_black_op.html)
 
+## HashSets
+- LookUp of a string in a HashSet or a HashMap is not O(1) but O(m) where m is the length of the string
+  - Looking up a string requires hashing of the string and looking up the hashcode in the HashSet.
+  - Hashing of a string needs to consider/process all the characters in the string thus taking up O(m) time complexity.
+
 ## Arithmetic Concepts
 - Diagonal elements in a matrix have the same index sums (row_index + col_index)
 
