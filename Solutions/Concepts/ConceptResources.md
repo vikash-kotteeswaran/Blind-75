@@ -3,6 +3,13 @@
 - **Topological Sort**
   - [Kahn's Algorithm](https://mohammad-imran.medium.com/understanding-topological-sorting-with-kahns-algo-8af5a588dd0e)
   - [Plain DFS](https://www.youtube.com/watch?v=eL-KzMXSXXI)
+  - Topological Sort Implementation [link](https://www.youtube.com/watch?v=6kTZYvNNyps)
+- **Union Find**
+  - Union And Find Operations. Union Rank Purpose For Optimization. [link](https://youtu.be/0jNmHPfA_yE?si=Ixt1riBt8-x6eK5A)
+  - Union Find Path Compression [link](https://youtu.be/VHRhJWacxis?si=K_t_7RjecdWT-9hE)
+  - Union Find Data Structure Code Implementation [link](https://youtu.be/KbFlZYCpONw?si=gSG70cDsHom372iE)
+- Reference
+  - Top 5 Graph Algorithms [link](https://youtu.be/utDu3Q7Flrw?si=M79XHg_8tXL4N4Vn)
 
 ## Queue
 - **Priority Queue**
