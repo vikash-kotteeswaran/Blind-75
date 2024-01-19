@@ -43,3 +43,7 @@
 - $n\ \\&\ (-n)$ gets the right most bit of the number 'n' in decimal form (atleast when it comes to java)
 - **Reference**
   - Kunal Kushwaha's video on Bit Manipulations [link](https://www.youtube.com/watch?v=fzip9Aml6og&t=6959s)
+
+## Java Data Structures
+- _String_ class has their values in a _String pool_, when a _String_ invoked by `intern()`, it checks for a _String instance_ with same value as the invoker and points _old instance value_ to the _invoker String_.
+- `valueOf()` method of _Integer_ and _Long_ caches the values and when invoked with a value that is already cached, it points the cached value to the _newly to be created Class instance_.
