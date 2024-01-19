@@ -8,7 +8,7 @@
   - Union And Find Operations. Union Rank Purpose For Optimization. [link](https://youtu.be/0jNmHPfA_yE?si=Ixt1riBt8-x6eK5A)
   - Union Find Path Compression [link](https://youtu.be/VHRhJWacxis?si=K_t_7RjecdWT-9hE)
   - Union Find Data Structure Code Implementation [link](https://youtu.be/KbFlZYCpONw?si=gSG70cDsHom372iE)
-- Reference
+- **Reference**
   - Top 5 Graph Algorithms [link](https://youtu.be/utDu3Q7Flrw?si=M79XHg_8tXL4N4Vn)
 
 ## Queue
@@ -37,3 +37,9 @@
 
 ## Binary Concepts
 - A number XOR-ing itself will return 0, any number XOR-ing with 0 will stay unchanged.
+- $Int(log_2(n)) + 1$ gives the number of digits in a binary number.
+- range of numbers from a bit array. 'n' is the size of the bit. Range -> $-2^{n - 1}$ to $2^{n-1} - 1$
+- $n\ \\&\ (n-1)$ removes the right most bit of the number 'n' and gives the result as the decimal number that is removed of its right most bit's decimal value.
+- $n\ \\&\ (-n)$ gets the right most bit of the number 'n' in decimal form (atleast when it comes to java)
+- **Reference**
+  - Kunal Kushwaha's video on Bit Manipulations [link](https://www.youtube.com/watch?v=fzip9Aml6og&t=6959s)
