@@ -32,6 +32,15 @@
   - Looking up a string requires hashing of the string and looking up the hashcode in the HashSet.
   - Hashing of a string needs to consider/process all the characters in the string thus taking up O(m) time complexity.
 
+## Backtracking
+- Try to divide the problem into recursive sub problems.
+- Try to find the basis operation of a problem. As in, an example could be finding the subsets of a set. 
+When we consider an index of a set, we either take that include in a subset or we do not. This is the basis operation.
+- When met with duplicates in the result, check whether the basis operations are actually fundamental basises, check if any of the operations in the "initially found"
+basis operations could be made as a composition of other basis operations.
+- Use a stack to do the problem iteratively. The intuition remains the same, whatever the parameters be given to a recursive function in the case of recursion, would be added to 
+our stack in the case of a iterative solution.
+
 ## Arithmetic Concepts
 - Diagonal elements in a matrix have the same index sums (row_index + col_index)
 
